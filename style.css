@@ -22,7 +22,7 @@ b
 }
 h1 {
   
-  font-size: 60px;
+  font-size: 100px;
   margin-top: 30px;
   margin-bottom:30px;
   text-align: center;
@@ -31,20 +31,26 @@ h1 {
   font-size: 60px;
   margin-top: 150px;
   margin-bottom: 50px;
-  margin-left: 0;
+  margin-left: 220px;
 }
  .kimg {
   display: block;
   margin: 20px auto;
   max-width: 200%;
   height: 100%;
-  margin-right: 0;
+  margin-right: 0px;
 }
 .sidebar {
   position: absolute;
-  left:0px;
+  left: 0px;
   padding: 20px;
   height: 100%;
   width: 60%;
   font-size: 35px;
+}
+form
+{
+  height: auto;
+  width: auto;
+  background-color: aliceblue;
 }
