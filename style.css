@@ -18,7 +18,7 @@ header {
 b
 {
   color: rgb(103, 71, 71);
-  font-size: 40px;
+  font-size: 30px;
 }
 h1 {
   
@@ -38,11 +38,11 @@ h1 {
   margin: 20px auto;
   width: 20%;
   height: 100%;
-  margin-right: 0px;
+  margin-right: 40px;
 }
 .sidebar {
   position: absolute;
-  margin-left: 25px;
+  left: 0px;
   padding: 20px;
   height: 100%;
   width: 60%;
